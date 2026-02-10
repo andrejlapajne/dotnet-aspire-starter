@@ -10,9 +10,14 @@ The default _.NET Aspire starter application_ template provisions the following 
 
 ## Running the application
 
-As stated on the [getting started page](https://learn.microsoft.com/en-us/dotnet/aspire/get-started/quickstart-build-your-first-aspire-app?tabs=dotnet-cli#test-the-app-locally), simply run the following command (requires .NET 8 to be installed first):
+As stated on the [getting started page](https://learn.microsoft.com/en-us/dotnet/aspire/get-started/quickstart-build-your-first-aspire-app?tabs=dotnet-cli#test-the-app-locally), simply run the following command (requires .NET 10 to be installed first):
 
     dotnet run --project dotnet-aspire-starter/dotnet-aspire-starter.AppHost
+
+> **If the nodes start as unhealthy** 
+>
+> Follow [this procedure here](https://learn.microsoft.com/en-us/dotnet/aspire/troubleshooting/untrusted-localhost-certificate) to regnerate a new .NET developer certificate
+
 
 ## Screenshots
 
