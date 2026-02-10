@@ -8,6 +8,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dotnet-aspire-starter.Servi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dotnet-aspire-starter.ApiService", "dotnet-aspire-starter.ApiService\dotnet-aspire-starter.ApiService.csproj", "{5547600E-F23B-4CCD-A344-D12D1DF80F99}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dotnet-aspire-starter.Tests", "dotnet-aspire-starter.Tests\dotnet-aspire-starter.Tests.csproj", "{4393673C-8B76-4649-8BC2-DD059F0F3142}"
+EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dotnet-aspire-starter.Web", "dotnet-aspire-starter.Web\dotnet-aspire-starter.Web.csproj", "{1A06CCAE-29A0-4E6F-ADD7-BC2F2377D4A3}"
 EndProject
 Global
@@ -28,6 +30,10 @@ Global
 		{5547600E-F23B-4CCD-A344-D12D1DF80F99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5547600E-F23B-4CCD-A344-D12D1DF80F99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5547600E-F23B-4CCD-A344-D12D1DF80F99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4393673C-8B76-4649-8BC2-DD059F0F3142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4393673C-8B76-4649-8BC2-DD059F0F3142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4393673C-8B76-4649-8BC2-DD059F0F3142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4393673C-8B76-4649-8BC2-DD059F0F3142}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1A06CCAE-29A0-4E6F-ADD7-BC2F2377D4A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1A06CCAE-29A0-4E6F-ADD7-BC2F2377D4A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A06CCAE-29A0-4E6F-ADD7-BC2F2377D4A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
